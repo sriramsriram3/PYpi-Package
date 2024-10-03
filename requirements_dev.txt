@@ -8,9 +8,11 @@ ensure
 
 # dev requirements -
 
-pytest: 7.4.2
-tox: 4.11.0
-black: 24.8.0​
-flake8: 6.1.0​
-mypy: 1.6.0
+coverage==6.5.0
+flake8==5.0.4
+mypy==0.971
+pytest==7.4.2
+pytest-xdist==3.2.1
+
+
 -e .
