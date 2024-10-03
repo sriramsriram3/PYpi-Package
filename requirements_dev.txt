@@ -6,13 +6,13 @@ numpy
 ensure
 
 
-# dev requirements -
 
 coverage==6.5.0
 flake8==5.0.4
 mypy==0.971
 pytest==7.4.2
 pytest-xdist==3.2.1
+
 
 
 -e .
